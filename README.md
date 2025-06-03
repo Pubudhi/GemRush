@@ -49,7 +49,7 @@ You can run GemRush in three ways:
 3. **Python Script**:
    - Run the Python script directly:
    ```
-   cd /<path>/pygame-2d/gem_collector
+   cd <path>/pygame-2d/gem_collector
    python3 GemRush.py
    ```
 
@@ -84,7 +84,7 @@ pip install pygame
 ```
 3. Run the game:
 ```
-python GemRush.py
+python3 GemRush.py
 ```
 
 ### Creating the Executable
